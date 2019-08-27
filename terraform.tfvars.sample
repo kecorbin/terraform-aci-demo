@@ -1,0 +1,3 @@
+aci_url      = "https://myapic.company.com"
+aci_username = "admin"
+aci_password = "changeme"
